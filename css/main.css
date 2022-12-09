@@ -1,0 +1,94 @@
+
+.nav-link{
+    color:white !important;
+    font-size: 0.85em;
+    font-weight:bold;
+}
+.nav-item:hover{
+    background-color:rgba(255, 255, 255, 0.3);
+}
+@media only screen and (max-width: 767.98px){
+    .log {margin-top:3px; }
+    .nav-item{margin-top:7px;}
+    .dropdown-toggle{padding-left: 0px;}
+    #opis{padding-top: 2%;}
+    .napisy{display: none;}
+}
+@media only screen and (max-width: 830px){
+}
+
+.carousel-caption{
+    text-align: left;
+    background-color:rgba(0, 0, 0, 0.3);
+    padding-left: 2%;
+}
+.carousel-item{
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    padding: 15%;;
+}
+.item-1{
+    background-image: url("../img/piesel.png");
+}
+.item-2{
+    background-image: url("../img/piesy2.jpg");
+}
+.item-3{
+    background-image: url("../img/piesy3.jpg");
+}
+.carousel-indicators > li {
+    border-radius: 50%;
+    width: 12px;
+    height: 12px;
+}
+
+#n_rasy{
+    color:white;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    padding: 15%;;
+    background-image: url('../img/tlo_rasy.jpg');
+}
+#n_szkolenie{
+    color:white;
+    display:flex;
+    justify-content: center;
+    align-items: end;
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-position: center;
+    padding:15%;
+    background-image: url('../img/szkolenie.jpg');
+}
+.modal-backdrop {
+    position:unset !important;
+}
+.bi-instagram:hover {
+    background-image: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    color:transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+}
+.bi-youtube:hover {
+    background-color: red ;
+    color:transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+}
+.bi-twitter:hover {
+    background-color: #1DA1F2 ;
+    color:transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+}
+.bi-facebook:hover {
+    background-color: #1778F2  ;
+    color:transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+}
