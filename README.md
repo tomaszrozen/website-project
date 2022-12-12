@@ -1,9 +1,11 @@
 # website-project
-HTML/CSS/BOOTSTRAP/PHP/JS
+HTML/CSS/BOOTSTRAP/PHP
 
 
 Projekt strony internetowej wykonany jako projekt końcowy z przedmioty Języki hipertekstowe \.
 
 Użyte technologie:
-PHP
-BOOTSTRAP 
+HTML\n
+CSS\n
+PHP\n
+BOOTSTRAP\n 
