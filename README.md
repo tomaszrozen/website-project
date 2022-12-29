@@ -12,4 +12,4 @@ Użyte technologie:<br>
 link do strony
 https://ux.up.krakow.pl/~tomasz.rozen/projekt/index.php
 
-![Screenshot][img/strona.png]
+![Screenshot](img/strona.png)
