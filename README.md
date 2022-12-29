@@ -8,4 +8,8 @@ Użyte technologie:<br>
 <b>HTML</b><br>
 <b>CSS</b><br>
 <b>PHP</b><br>
-<b>BOOTSTRAP</b>
+<b>BOOTSTRAP</b><br>
+link do strony
+https://ux.up.krakow.pl/~tomasz.rozen/projekt/index.php
+
+![Screenshot][img/strona.png]
