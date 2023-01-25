@@ -2,7 +2,7 @@
 HTML/CSS/BOOTSTRAP/PHP
 
 
-<span style="font-size:50px;">Projekt strony internetowej wykonany jako projekt końcowy z przedmioty Języki hipertekstowe.</span>
+<span style="font-size:50px;">Projekt strony internetowej</span>
 <br><br>
 Użyte technologie:<br>
 <b>HTML</b><br>
